@@ -9,6 +9,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Blog from './pages/Blog';
+import Broke from './pages/Broke';
 
 const App = () => {
   return (
@@ -41,6 +42,9 @@ const App = () => {
           </Route>
           <Route exact path='/blog' component={Blog}>
             <Blog />
+          </Route>
+          <Route>
+            <Broke />
           </Route>
         </Switch>
       </Router>
