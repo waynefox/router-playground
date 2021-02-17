@@ -1,4 +1,4 @@
-import image from '../images/blog.png';
+import image from '../images/blog.webp';
 
 const Blog = () => {
   return (
