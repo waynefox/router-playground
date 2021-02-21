@@ -2,6 +2,8 @@
 
 ![](./src/images/preview.png)
 
+lazy load images used https://www.npmjs.com/package/react-lazy-load-image-component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
